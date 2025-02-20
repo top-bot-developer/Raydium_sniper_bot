@@ -19,5 +19,5 @@ This bot use the corvus's great grpc and rpc , so you don't need to purchase any
 - Add your private key in base64 format which can be exported from either Phantom or derived from your JSON keypair for your wallet.
 
 # Commands
--npm i
--npm run start
+- npm i
+- npm run start
